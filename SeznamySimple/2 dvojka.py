@@ -13,3 +13,4 @@ elif(a < 2):
     print("Číslo je menší než 2")
 
 print(list)
+#pekny format print, skvela kontrola uzivatelskeho vstupu

@@ -10,3 +10,4 @@ elif int(a % 2 == 0):
   print("Toto je sudé číslo!")
 
 print(list)
+#je to dobre, chybi ale soucet

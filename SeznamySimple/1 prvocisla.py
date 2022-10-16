@@ -15,3 +15,4 @@ while len(primes) < a:
     counter += 2
 
 print(primes)
+#pekne
